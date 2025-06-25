@@ -1,0 +1,24 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" fill="none">
+  <!-- Face -->
+  <circle cx="100" cy="100" r="80" fill="#FFCC4D" stroke="#000" stroke-width="4" />
+
+  <!-- Eyes -->
+  <circle cx="75" cy="85" r="8" fill="#000" />
+  <circle cx="125" cy="85" r="8" fill="#000" />
+
+  <!-- Smile -->
+  <path d="M65 120 Q100 150 135 120" stroke="#000" stroke-width="4" fill="none" />
+
+  <!-- Notepad -->
+  <rect x="125" y="135" width="50" height="60" fill="#FFF" stroke="#000" stroke-width="2" />
+  <line x1="130" y1="145" x2="165" y2="145" stroke="#000" stroke-width="2" />
+  <line x1="130" y1="155" x2="165" y2="155" stroke="#000" stroke-width="2" />
+  <line x1="130" y1="165" x2="165" y2="165" stroke="#000" stroke-width="2" />
+  <line x1="130" y1="175" x2="165" y2="175" stroke="#000" stroke-width="2" />
+
+  <!-- Pencil -->
+  <path d="M55 145 L100 190 L105 180 L60 135 Z" fill="#F9C74F" stroke="#000" stroke-width="2" />
+  <path d="M100 190 L105 180" stroke="#000" stroke-width="2" />
+  <path d="M60 135 L55 145" stroke="#000" stroke-width="2" />
+</svg>
+
